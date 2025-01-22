@@ -1,4 +1,4 @@
-alert("by infinitexlks. Only way to reverse it is to restart your computer. Do NOT blame me for any damages.");
+alert("by infinitexlks. Only way to reverse it is to restart your computer. Do NOT blame me for any damages. You can close this tab now, and return safely.");
 
 function applyBackgroundImage(element) {
     var childNodes = element.childNodes;
